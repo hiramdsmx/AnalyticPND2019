@@ -25,6 +25,3 @@ pyvenv.cfg
 # Archivos de git
 .git/
 ./
-
-#Archivos varios
-*.pdf
