@@ -7,3 +7,9 @@ The lack of a clear focus on transparency and human rights could undermine publi
 Moreover, equity and inclusion—critical cross-cutting principles for any public policy—are essential to ensuring that the benefits of development reach all sectors of society, regardless of origin or socioeconomic status.
 
 It is imperative that a plan of this scope integrates these issues not as isolated references, but as core principles guiding the government's vision and actions. Failure to do so risks misalignment with international standards and jeopardizes the country's sustainable development in the long term.
+
+### Data
+
+### Results
+
+### References
