@@ -15,6 +15,7 @@ pyvenv.cfg
 # Configuraciones de IDE
 .vscode/
 .idea/
+etc/
 
 # Archivos de logs
 *.log
@@ -25,3 +26,5 @@ pyvenv.cfg
 # Archivos de git
 .git/
 ./
+#Archivos de prueba
+prueba.ipynb
